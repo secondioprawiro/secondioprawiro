@@ -5,9 +5,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/secondio-prawiro/" />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" href="https://www.instagram.com/_secondio10/" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" href="mailto:kristinarrang08@gmail.com"/>
+  <a href="https://www.linkedin.com/in/secondio-prawiro/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/_secondio10/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="mailto:kristinarrang08@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
 </div>
 
 ###
@@ -78,7 +86,7 @@
 <details>
 <summary>Github Stats ⚡
 </summary>
-<a href="https://github.com/MekelWibi">
+<a href="https://github.com/secondioprawiro">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MekelWibi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MekelWibi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
