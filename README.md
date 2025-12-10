@@ -30,7 +30,7 @@
 
 <p align="left">I'm Secondio Prawiro from Duta Wacana Christian University
   <br>I'm fresh graduate faculty of Information Technology Bachelor Degree
-  <br>- 📚 I'm currently learning Front-End especially in React.js and Vue.js and Back-End in Node.js
+  <br>- 📚 I'm currently learning Front-End especially in React.js and Vue.js and Back-End especially in Express.js
   <br>- 💡I'm passionate about Front-End dev, Back-end dev, Mobile dev, Game dev (Unity). 
 
 ###
